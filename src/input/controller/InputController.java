@@ -36,5 +36,5 @@ public class InputController
 		System.out.println("Wow " + input + "you are " + myAge + " years old.");
 	}
 	
-	{
+	
 }
